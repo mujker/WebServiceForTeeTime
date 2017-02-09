@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="ServiceClient.asmx.cs" Class="ClientInterface.ServiceClient" %>
